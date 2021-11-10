@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int num1, num2, sum;
+        int num1, num2, sum, sum4;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter First Number: ");
         num1 = sc.nextInt();
